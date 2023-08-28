@@ -2,7 +2,7 @@ import nextcord
 import openai
 import asyncio
 
-from discord.ext import commands
+from nextcord.ext import commands
 from nextcord import Interaction
 from nextcord import slash_command
 
