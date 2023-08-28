@@ -1,2 +1,2 @@
-token = "MTEzNjYwNTA5ODk0NTAxOTk1NA.G56nOL.NLv8vTeKyY_-rJ2YLkcA_kX2DcBIARIX1rCTDc"
-openai = "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"
+token = "<your discord bot token>"
+openai = "<your OpenAI API key>"
