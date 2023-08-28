@@ -5,9 +5,11 @@
 
 Giveaway
 
-text to picture AI
+text to picture AI (DALL-E 2)
 
 GPT 3.5 AI
+
+GPT 3.5 AI + saving conversation(VIP GPT)
 
 Auto Exchange
 
