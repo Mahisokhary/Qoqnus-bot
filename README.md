@@ -13,3 +13,11 @@ Auto Exchange
 
 random Persian Poem sender
 
+
+# Find it on top.gg
+
+https://top.gg/bot/1092039637117182053
+
+# SUP server
+
+https://discord.gg/tsUnf6puKA
